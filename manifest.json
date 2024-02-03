@@ -1,0 +1,11 @@
+{
+    "name": "Emojinator😊",
+    "version": "2.0.0",
+    "description": "express more feelings using emojis",
+    "manifest_version": 3,
+    "author": "HaiderTech",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Emojinator😊"
+    }
+}

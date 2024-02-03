@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#emojis {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.emoji {
+    font-size: 24px;
+}
+.firstheading{
+    color:black;
+    text-align: center;
+    text-decoration: double;
+}
+.firstheading:hover{
+    background-color: darkcyan;
+    transition: 2s;
+    text-indent: 2px;
+    cursor: pointer;
+    user-select: none;
+}
